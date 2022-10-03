@@ -1,4 +1,4 @@
-# projectAPIRestWIthSequelize
+# Executando o projeto
 
 Para executar o projeto, primeiro, faça a migração das models do Sequelize para o banco de dados, utlizando dos seguintes comandos:
 
